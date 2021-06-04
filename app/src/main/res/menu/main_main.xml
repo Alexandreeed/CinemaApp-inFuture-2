@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:icon="@drawable/home2"
+    android:title="Фильмы"
+    android:id="@+id/home"/>
+    <item
+        android:id="@+id/tickets"
+        android:title="Билеты"
+        android:icon="@drawable/ic_tickets"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Профиль"
+        android:icon="@drawable/ic_user"/>
+
+</menu>
